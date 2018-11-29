@@ -2,6 +2,11 @@
 [Course_Material] Applied Data Analysis for Atmospheric Sciences Using Python
 
 ## 更新
+- 2018-11-29
+  - 第三、四週教材已更新
+  - 預計上課時間：12/01 。
+  - 作業於上課當天公布。
+
 - 2018-11-17
   - 第二週教材已更新
   - 上課時程調整：12/08 的課程內容分散到 11/17 與 12/01 進行，12/08 改為作業練習，不必上課。
