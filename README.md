@@ -2,6 +2,9 @@
 [Course_Material] Applied Data Analysis for Atmospheric Sciences Using Python
 
 ## 更新
+- 2018-12-09
+  - 加入第三次作業的參考答案。由於最後三題為開放題，參考答案裡並沒有範例，希望大家踴躍嘗試各種可能性。
+
 - 2018-12-01
   - [第三次作業](https://goo.gl/forms/TzrtqMcExmeyp99G3)，請於 2018/12/31 16:00 (UTC+8) 前完成
 
